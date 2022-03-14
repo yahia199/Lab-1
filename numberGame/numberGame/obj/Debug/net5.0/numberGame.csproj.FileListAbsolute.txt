@@ -1,0 +1,16 @@
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\bin\Debug\net5.0\numberGame.exe
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\bin\Debug\net5.0\numberGame.deps.json
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\bin\Debug\net5.0\numberGame.runtimeconfig.json
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\bin\Debug\net5.0\numberGame.runtimeconfig.dev.json
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\bin\Debug\net5.0\numberGame.dll
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\bin\Debug\net5.0\ref\numberGame.dll
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\bin\Debug\net5.0\numberGame.pdb
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.csproj.AssemblyReference.cache
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.AssemblyInfoInputs.cache
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.AssemblyInfo.cs
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.csproj.CoreCompileInputs.cache
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.dll
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\ref\numberGame.dll
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.pdb
+C:\Users\D-C\lab\Lab-1\numberGame\numberGame\obj\Debug\net5.0\numberGame.genruntimeconfig.cache
